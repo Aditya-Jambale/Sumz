@@ -37,4 +37,4 @@ Get started with this project by following these steps:
 **Clone the Repository:**
 
 ```bash
-git clone [invalid URL removed]
+git clone [https://github.com/Aditya-Jambale/Sumz]
