@@ -6,8 +6,7 @@ This repository provides the source code for a web application that leverages th
 
 ## Tech Stack
 
-* **Frontend:** React.js - A popular JavaScript library for building modern and responsive user interfaces.
-* **State Management:** Redux Toolkit - A state management library built on top of Redux, simplifying state management and data flow.
+* **Frontend:** Html, CSS, Javascript - A popular JavaScript library for building modern and responsive user interfaces.
 * **Styling:** Tailwind CSS - A utility-first CSS framework that streamlines the creation of well-styled web applications.
 
 ## Features
